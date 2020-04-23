@@ -1,0 +1,2 @@
+Ovo je sample text.
+Html tag <b> se ne bi trebao renderirati </b>.
