@@ -5,8 +5,9 @@
 	<persistence-unit name="baza.podataka.za.blog" transaction-type="RESOURCE_LOCAL">
 		<provider>org.hibernate.jpa.HibernatePersistenceProvider</provider>
 
-		<class>hr.fer.zemris.java.tecaj_13.model.BlogEntry</class>
-		<class>hr.fer.zemris.java.tecaj_13.model.BlogComment</class>
+		<class>hr.fer.zemris.java.hw15.model.BlogComment</class>
+		<class>hr.fer.zemris.java.hw15.model.BlogEntry</class>
+		<class>hr.fer.zemris.java.hw15.model.BlogUser</class>
 
 		<properties>
 
