@@ -41,11 +41,15 @@
 			<groupId>hr.fer.zemris.java.raytracer</groupId>
 			<artifactId>raytracer</artifactId>
 			<version>1.0</version>
+			<scope>system</scope>
+			<systemPath>${project.basedir}/lib/raytracer-1.0.jar</systemPath>
 		</dependency>
 		<dependency>
 			<groupId>hr.fer.zemris.java.fractals</groupId>
 			<artifactId>fractal-viewer</artifactId>
 			<version>1.0</version>
+			<scope>system</scope>
+			<systemPath>${project.basedir}/lib/fractal-viewer-1.0.jar</systemPath>
 		</dependency>
 	</dependencies>
 
