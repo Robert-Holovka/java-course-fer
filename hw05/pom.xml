@@ -40,9 +40,9 @@
 		<dependency>
 			<groupId>hr.fer.zemris.java.lsystems</groupId>
 			<artifactId>LSystem</artifactId>
-            <version>1.0</version>
-            <scope>system</scope>
-            <systemPath>${project.basedir}/lib/lsystems.jar</systemPath>
+			<version>1.0</version>
+			<scope>system</scope>
+			<systemPath>${project.basedir}/lib/lsystems.jar</systemPath>
 		</dependency>
 	</dependencies>
 
